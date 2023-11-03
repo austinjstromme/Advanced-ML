@@ -6,4 +6,4 @@ Ensure that you have the following items installed
 - Scikit-learn
 - [Jupyter Lab](https://jupyter.org/install)
 
-Then, on a Mac, open the .ipnyb file by running, in the same directory as where the file lives, <pre>jupyter lab CodingSession1.ipynb</pre>
+Then, on a Mac, open the .ipnyb file by running, in the same directory as where the file lives, <pre>jupyter lab KernelPerceptron.ipynb</pre>
